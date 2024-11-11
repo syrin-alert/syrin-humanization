@@ -4,7 +4,7 @@ The `syrin-humanization` component connects to RabbitMQ to process messages by h
 
 ## Demo
 
-![Application Demo](./driagrams/Syrin-Humanization.gif)
+![Application Demo](./diagram/Syrin-Humanization.gif)
 
 ## Table of Contents
 - [Installation](#installation)
